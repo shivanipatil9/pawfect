@@ -223,13 +223,75 @@ function Privacypolicy() {
                                     </p>
                                 </li>
                             </ul>
-                            <p></p>
+                            <p className="text-lg mt-6">INFORMATION SHARING</p>
+                            <p className="text-lg mt-2">We limit sharing your information outside specific circumstances necessary for service provision, operational improvements, and legal compliance.</p>
+                            <p className="text-lg mt-2">SHARING INFORMATION WITH YOUR CONSENT</p>
+                            <p className="text-lg mt-4">Any information sharing or disclosure occurs upon your explicit consent. We offer various ways to control your data and communication preferences, granting you the right to access, correct, or delete your information.</p>
+                            <ul className="text-lg list-decimal ml-6">
+                                <li>
+                                    <p>Account Settings: Once registered, you may update your choices regarding the visibility of your information, the types of communications you receive from us.</p>
+                                </li>
+                                <li>
+                                    <p>
+                                        Communications:
+                                        <ul className="text-lg list-disc ml-6">
+                                            <li>
+                                                <p>You also may opt out of receiving marketing emails from us by following the opt-out instructions provided in those emails.</p>
+                                            </li>
+                                            <li>
+                                                <p>You may opt out of receiving text messages following the opt-out instructions provided in those texts.</p>
+                                            </li>
+                                            <li>
+                                                <p>You may grant/ refuse permission to receive push notifications from the App on your device.</p>
+                                            </li>
+                                        </ul>
+                                    </p>
+                                </li>
+                            </ul>
+                            <p className="text-lg">
+                                Please note that we reserve the right to send you certain transactional communications relating to your account or use of the Service  (administrative and service announcements) via email /text  for discharge of contractual obligations, which shall be unaffected even if you opt-out from receiving marketing communications.
+                            </p>
+                            <ul className="text-lg list-decimal ml-6">
+                                <li>Right to Access, Correct, and Delete: Individuals may have certain rights under applicable laws which include:</li>
+                                <li className="text-lg list-disc ml-6">The right to access, review or change/update the personal information we keep about you by logging into the App and visiting your account profile page.</li>
+                                <li className="text-lg list-disc ml-6">The right to request correction of the information we keep about you that you believe is inaccurate.</li>
+                                <li className="text-lg list-disc ml-6">The right to delete any personal information that we keep about you  In some cases, we may not be able to delete your personal information except by deleting your user account.</li>
+                            </ul>
+                            <p className="text-lg">Choice exercise the rights : To exercise the aforementioned rights, please contact us info@thepawfectdate.com.Please note that we will ask you to provide proof of identity before we can answer any of the above requests. Some requests may be rejected if the request would violate a legal requirement, for example, if the request infringes on the privacy rights of other pet lovers.</p>
+                            <p className="text-lg mt-6">SHARING INFORMATION WITH OTHER USERS ON PAWFECT DATE</p>
+                            <p className="text-lg">Voluntarily disclosed information, such as profiles, photos, or locations, may be visible to other users. You can manage profile visibility settings through the app.afety.</p>
+                            <p className="text-lg mt-8">SHARING INFORMATION WITH OUR SERVICE PROVIDERS AND PARTNERS</p>
+                            <p className="text-lg">Service providers and other third parties help us to operate and improve our services. They perform critical functions such as data hosting, payment processing, website security, and maintenance. Information is shared on a need-to-know basis for contractual fulfillment.</p>
+                            <p className="text-lg mt-6">SHARING INFORMATION FOR CORPORATE TRANSACTIONS</p>
+                            <p className="text-lg mt-6">In the event that THE PAWFECT DATE undergoes a business transition or change of ownership, such as a merger, acquisition by another company, re-organization, or sale of all or a portion of its assets, or in the event of insolvency or administration, we may be required to disclose your personal data.</p>
+                            <p className="text-lg mt-6">SHARING INFORMATION WHEN REQUIRED BY LAW</p>
+                            <p className="text-lg mt-6">We may disclose your information if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:</p>
+                            <ul className="text-lg list-disc ml-6">
+                                <li>Meet applicable law, legal process, or government request.</li>
+                                <li>Enforce our Terms of Service, including investigating potential violations.</li>
+                                <li>Detect, prevent, or otherwise address fraud, security, or technical issues.</li>
+                                <li>Protect against harm to the legal rights, property, or safety of THE PAWFECT DATE, our users, or the public as required or permitted by law.</li>
+                            </ul>
+                            <p className="text-lg">HOW WE GUARD YOUR INFORMATION </p>
+                            <p className="text-lg">We want you to have a safe, secure experience when searching for your next date! This is why we have implemented commercially reasonable security measures to protect and prevent the loss, misuse, and alteration of the information under our control, including your personal information. Our technical experts at THE PAWFECT DATE work hard to ensure that you have a safe user experience.</p>
+                            <p className="text-lg mt-6">While we take reasonable precautions against possible security breaches of our App, Website, member database, and records, website, or internet transmission is completely secure and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal data safe (including your password) and to log out of your account after use. If you lose your password or give it out, or another service provider that you use suffers a data breach and you have used the same credentials with that service provider as you have with THE PAWFECT DATE, your personal data may be compromised. If that happens, please report it via our Contact Us page.</p>
+                            <p className="text-lg mt-6">WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ANY BREACHES OF SECURITY, DAMAGE TO YOUR DEVICE, OR ANY LOSS OR UNAUTHORISED USE OF YOUR REGISTRATION INFORMATION OR OTHER DATA.</p>
+                            <p className="text-lg">YOUR CALIFORNIA PRIVACY RIGHTS </p>
+                            <p className="text-lg">If you are a California resident, California law may provide you with additional rights regarding our use of your personal information. </p>
+                            <p className="text-lg mt-8">California's "Shine the Light" law (Civil Code Section § 1798.83) permits users of THE PAWFECT DATE that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to</p>
+                            <p className="text-lg">info@thepawfectdate.com.</p>
+                            <p className="text-lg mt-6">HOW LONG WE KEEP YOUR INFORMATION</p>
+                            <p className="text-lg">We retain your personal information as long as necessary for legitimate business purposes and as permitted by law. Your information may be stored to comply with legal obligations, resolve disputes, or address security concerns.</p>
+                            <p className="text-lg mt-6">WE WILL LET YOU KNOW IF WE MAKE CHANGES TO THIS POLICY</p>
+                            <p className="text-lg">We are constantly improving our Services. We will notify by you before we make any material changes, determined at our sole discretion, by email or posting a notice within THE PAWFECT DATE so that you may review the changes.</p>
+                            <p className="text-lg mt-6">HOW TO REACH US</p>
+                            <p className="text-lg">If you would like to know how to exercise your rights or have any questions about this Policy, please contact us at info@thepawfectdate.com</p>
+                            <p className="text-lg mt-6">Thank you for visiting THE PAWFECT DATE and taking the time to read this Policy.</p>
+                            <p className="text-lg mb-10">PAWFECT DATE ™ and a platform owned and managed by M/S STALLION ENTERPRISE. “THE PAWFECT DATE” or “we”  referred herein is a part of the M/S STALLION ENTERPRISE. When we refer to THE PAWFECT DATE, we refer a division owned by M/S STALLION ENTERPRISE.</p>
                         </div>
                     </div>
-
                 </section>
             </main>
-
             <Footer />
         </div >
 
