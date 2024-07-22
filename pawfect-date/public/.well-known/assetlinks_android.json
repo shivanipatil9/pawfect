@@ -1,0 +1,23 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.esmagico.pawfect",
+            "sha256_cert_fingerprints": [
+                "95:C7:CB:66:28:09:72:7C:F1:EB:BC:37:7F:54:33:0E:D4:16:F4:E8:D0:9D:37:C9:9A:CD:5C:0F:27:AF:60:48"
+            ]
+        }
+    }
+]
+
+
+
+
+
+
+
+
+
