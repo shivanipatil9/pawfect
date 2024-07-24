@@ -101,7 +101,7 @@ function Terms_and_conditions() {
                             These terms and conditions are effective as of
                         </p>
                         <p className="text-lg ">
-                            If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at <a class="underline">info@thepawfectdate.com</a>. If you have any questions about anything in these Terms, please contact us via email at <a class="underline">hello@petsapp.com</a>.
+                            If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at <a href="mailto:info@thepawfectdate.com" className="link underline">info@thepawfectdate.com</a>. If you have any questions about anything in these Terms, please contact us via email at <a href="mailto:info@thepawfectdate.com" className="link underline">hello@petsapp.com</a>.
                         </p>
                         <p className="text-lg mb-10">
                             THE PAWFECT DATE ™ and a platform owned and managed by M/S STALLION ENTERPRISE. “THE PAWFECT DATE” or “we” referred herein is a part of the M/S STALLION ENTERPRISE. When we refer to THE PAWFECT DATE, we refer to a division owned by M/S STALLION ENTERPRISE.

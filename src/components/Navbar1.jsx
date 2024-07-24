@@ -1,5 +1,6 @@
 import React from 'react';
 import Pawfectlogo from "../images/Pawfectlogo.png";
+import { Link } from 'react-router-dom';
 
 const Navbar1 = () => {
     const shadowStyle = {
@@ -8,11 +9,14 @@ const Navbar1 = () => {
 
     return (
         <div className="flex justify-center " style={shadowStyle}>
-            <img
-                src={Pawfectlogo}
-                alt="Logo"
-                className="w-[130px] h-[44px] object-cover mt-5 mb-4"
-            />
+            <Link to="/">
+                <img
+                    src={Pawfectlogo}
+                    alt="Logo"
+                    className="w-[130px] h-[44px] object-cover mt-5 mb-4"
+                />
+            </Link>
+
         </div>
     );
 };

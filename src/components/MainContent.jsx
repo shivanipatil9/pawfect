@@ -24,7 +24,7 @@ const MainContent = () => {
                     </div>
                     <div className="flex flex-col gap-4 mb-8">
                         <a
-                            href="https://play.google.com/store/apps/details?id=com.esmagico.pawfect.pawfect"
+                            href="https://play.google.com/store/apps/details?id=com.esmagico.pawfect&hl=en"
                             target="_blank"
                             rel="noreferrer"
                         >

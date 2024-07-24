@@ -5,6 +5,7 @@ import Navbar from './Navbar1';
 function Privacypolicy() {
     return (
         <div>
+
             <Navbar />
             <main className="max-w-4xl mx-auto mt-10" >
                 <section>
@@ -219,7 +220,7 @@ function Privacypolicy() {
                                 <li>
                                     <p>
                                         Consent: In instances where we ask for consent, you may withdraw your consent at any time by contacting us. Please see the
-                                        <a href="/contact" style={{ textDecoration: 'underline' }}> Contact Us </a> section for more information.
+                                        Contact Us  section for more information.
                                     </p>
                                 </li>
                             </ul>

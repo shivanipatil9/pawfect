@@ -67,7 +67,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="footer-bottom text-center text-sm mt-4">
-                © 2023 Pawfect. All rights reserved
+                © 2024 Pawfect. All rights reserved
             </div>
         </footer>
     );
