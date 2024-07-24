@@ -7,7 +7,8 @@
             "namespace": "android_app",
             "package_name": "com.esmagico.pawfect",
             "sha256_cert_fingerprints": [
-                "95:C7:CB:66:28:09:72:7C:F1:EB:BC:37:7F:54:33:0E:D4:16:F4:E8:D0:9D:37:C9:9A:CD:5C:0F:27:AF:60:48"
+                "95:C7:CB:66:28:09:72:7C:F1:EB:BC:37:7F:54:33:0E:D4:16:F4:E8:D0:9D:37:C9:9A:CD:5C:0F:27:AF:60:48",
+                "AA:0F:B8:F0:A4:1B:15:8B:01:3B:73:DA:1E:DD:73:53:F2:38:CE:5B:67:5B:86:33:3A:EC:AC:0A:51:24:99:04"
             ]
         }
     }
