@@ -4,8 +4,10 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.esmagico.pawfect",
-      "sha256_cert_fingerprints":
-        ["D9:A8:BD:6D:31:E2:01:0A:EB:B7:72:32:A0:0B:CA:E0:17:D5:6D:D9:7F:34:4A:C5:85:19:5C:BD:3A:9A:1B:99"]
+      "sha256_cert_fingerprints": [
+        "D9:A8:BD:6D:31:E2:01:0A:EB:B7:72:32:A0:0B:CA:E0:17:D5:6D:D9:7F:34:4A:C5:85:19:5C:BD:3A:9A:1B:99",
+        "2D:F1:7F:06:93:DB:95:95:78:C9:E2:93:A4:99:AF:76:36:DF:EE:26:34:EC:FB:45:E6:A0:E7:9D:D0:5A:C3:31"
+      ]
     }
   }
 ]
