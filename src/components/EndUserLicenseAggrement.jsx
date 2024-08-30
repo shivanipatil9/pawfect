@@ -8,7 +8,7 @@ function EndUserLicenseAggrement() {
         <div>
             <Navbar />
             <main >
-                <div className="mt-8 p-4 max-w-4xl mx-auto">
+                <div className="mt-8 py-8 px-4 text-lg font-sans overflow-x-hidden">
                     <div>
                         <div className="text-start">
                             <p className="text-2xl font-bold">THE PAWFECT DATE</p>

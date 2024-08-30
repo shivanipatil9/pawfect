@@ -7,7 +7,7 @@ function Privacypolicy() {
         <div>
 
             <Navbar />
-            <main className="max-w-4xl mx-auto mt-10" >
+            <main className=" mt-10  w-[95%] py-8 px-4 text-lg font-sans overflow-x-hidden" >
                 <section>
                     <div data-mesh-id="section-grid-content" data-testid="mesh-container-content">
                         <div id="title" className="mb-4">

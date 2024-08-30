@@ -6,7 +6,7 @@ function Terms_and_conditions() {
     return (
         <div>
             <Navbar />
-            <main className="max-w-4xl mx-auto text-lg font-sans">
+            <main className="w-[95%] py-8 px-4 text-lg font-sans overflow-x-hidden ">
                 <section>
                     <div>
                         <h1 className="text-xl text-24px font-bold leading-tight mb-4 mt-10">

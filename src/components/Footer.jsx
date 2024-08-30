@@ -23,10 +23,10 @@ const Footer = () => {
                 {/* Text Section */}
                 <div className="footer-text flex flex-col items-center md:items-start text-center md:text-left mb-4 ">
                     <div className="links mb-4 ">
-                        <Link to="/Privacypolicy" target="_blank" rel="noopener noreferrer" className="link text-sm underline block mb-4 ">
+                        <Link to="/pawfect-privacy-policy" target="_blank" rel="noopener noreferrer" className="link text-sm underline block mb-4 ">
                             Privacy Policy
                         </Link>
-                        <Link to="/Terms_and_conditions" target="_blank" rel="noopener noreferrer" className="link text-sm underline block mb-4">
+                        <Link to="/pawfect-terms-and-conditions" target="_blank" rel="noopener noreferrer" className="link text-sm underline block mb-4">
                             Terms & Conditions
                         </Link>
 
@@ -36,7 +36,7 @@ const Footer = () => {
                         <Link to="/Playdateaggrement" target="_blank" rel="noopener noreferrer" className="link text-sm underline block mb-4">
                             Play Date Agreement
                         </Link>
-                        <Link to="/Disclaimer" target="_blank" rel="noopener noreferrer" className="text-sm underline block mb-4">
+                        <Link to="/copy-of-pawfect-play-date-agreement" target="_blank" rel="noopener noreferrer" className="text-sm underline block mb-4">
                             Disclaimer
                         </Link>
                     </div>
