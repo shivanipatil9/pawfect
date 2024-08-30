@@ -1,0 +1,14 @@
+{
+"applinks": {
+"apps": [],
+"details": [
+{
+"appID": "GQDKK3XAAT.com.esmagico.pawfect",
+"paths": [
+"NOT /_/*",
+"/*"
+]
+}
+]
+}
+}
