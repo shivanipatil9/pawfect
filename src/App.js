@@ -6,6 +6,7 @@ import Playdateaggrement from './components/PlayDatePage';
 import EndUserLicenseAggrement from './components/EndUserLicenseAggrement';
 import Terms_and_conditions from './components/pawfect-terms-and-conditions';
 import Privacypolicy from './components/pawfect-privacy-policy';
+import JsonDisplay from "./components/JsonDisplay";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/EndUserLicenseAggrement" element={<EndUserLicenseAggrement />} />
         <Route path="/pawfect-terms-and-conditions" element={<Terms_and_conditions />} />
         <Route path="/pawfect-privacy-policy" element={<Privacypolicy />} />
+        <Route path="/.well-known/apple-app-site-association" element={<JsonDisplay />} />
       </Routes>
     </Router>
 
