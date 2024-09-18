@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import jsonData from "./apple-app-site-association.json";
+import jsonData from "./apple-app-site-association";
 
 function JsonDisplay() {
     const [data, setData] = useState(null);
