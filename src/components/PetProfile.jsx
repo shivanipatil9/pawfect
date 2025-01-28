@@ -122,7 +122,7 @@ const PetProfile = () => {
     }
 
     fetchData(
-      `http://prod.thepawfectdate.com/api/v1/getstoryofpet?profileid=${decodeHash(
+      `https://prod.thepawfectdate.com/api/v1/getstoryofpet?profileid=${decodeHash(
         petid
       )}&loggedinpet=${decodeHash(petid)}`
     );
