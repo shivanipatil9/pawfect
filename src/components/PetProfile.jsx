@@ -210,14 +210,14 @@ const PetProfile = () => {
               {currentPet?.type === "image" && currentPet.url ? (
                 <img
                   src={currentPet.url}
-                  className="object-contain w-full h-full"
+                  className="w-full h-full xs:object-cover md:object-cover"
                   alt={currentPet.url}
                 />
               ) : currentPet?.type === "video" && currentPet?.url ? (
                 <video
                   ref={videoRef}
                   src={currentPet?.url}
-                  className="object-contain w-full h-full"
+                  className="w-full h-full xs:object-cover md:object-cover"
                   autoPlay
                   muted={isMuted}
                 />
